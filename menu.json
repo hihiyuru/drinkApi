@@ -5,7 +5,7 @@
             {
                 "id": "01",
                 "name": "經典五桐茶",
-                "image_url": "https://cdn-order-v3.nidin.shop/product/images/1212/b1212_62b56560_NEYjx3F5.jpg",
+                "image_url": "https://raw.githubusercontent.com/hihiyuru/drinkApi/main/images/01.png",
                 "is_has_hot": false,
                 "price": 30,
                 "description": "多種茶自家配方調整",
@@ -15,7 +15,7 @@
             {
                 "id": "02",
                 "name": "杏仁凍五桐茶",
-                "image_url": "https://cdn-order-v3.nidin.shop/product/images/1212/b1212_62b565b3_5Z3il7IK.jpg",
+                "image_url": "https://raw.githubusercontent.com/hihiyuru/drinkApi/main/images/02.png",
                 "is_has_hot": false,
                 "price": 49,
                 "description": "綿密爽口的杏仁凍以絕佳比例調配在經典五桐茶中，清新的茶韻與杏仁香氣完美結合",
